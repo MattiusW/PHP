@@ -1,2 +1,2 @@
 <?php
--1,1,2,3,1
+echo "Between: {$nums[$i]} ";
