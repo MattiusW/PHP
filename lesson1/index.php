@@ -9,7 +9,6 @@
     $quantity = 3;
     $total = null;
 
-    
     // Float
     $price = 129.99;
     
@@ -27,6 +26,8 @@
     // Several variable
     echo"You buy {$quantity} {$games} and you will pay \${$total} for this.";
     
+
+
 ?>
 
 <!DOCTYPE html>
@@ -37,7 +38,6 @@
     <title>Learn PHP</title>
 </head>
 <body>
-    
     <br>
     <button>Example</button>
 
