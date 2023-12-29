@@ -35,7 +35,6 @@
         $exampleTwo = 'num';
         echo "<br> {$$example}";
         echo "<br>" . $$exampleTwo;
-        
     ?>
 </body>
 </html>
