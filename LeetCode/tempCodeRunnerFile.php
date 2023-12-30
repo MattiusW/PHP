@@ -1,2 +1,4 @@
 <?php
-echo "Between: {$nums[$i]} ";
+if($nums[$i] == $nums[count($nums) - 1]){
+                $total -= $nums[$j];
+            }
