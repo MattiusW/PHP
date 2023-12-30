@@ -1,9 +1,12 @@
 <?php
 
     $str = "Test string";
+    $string = "";
     
     for($i = strlen($str); $i >= 0; $i--){
-        echo $str[$i];
+        $string .= $str[$i];
     }
+
+    echo $string;
 
 ?>
