@@ -23,6 +23,7 @@
         echo"<br>2 + 5 * 3 + 10 / - 2 = ";
         echo 2 + 5 * 3 + 10 / 2 - 2;
 
+        echo"<br><br> Pow and Sqrt:<br>";
         echo"<br> ** = pow(2, 4)" . pow(2, 4);
         echo"<br> sqrt = " . sqrt(64);
 
